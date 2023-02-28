@@ -2,7 +2,7 @@
 name: Ghi nhận Yêu cầu
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 2. Bình thường
 assignees: nghivanbi
 
 ---
